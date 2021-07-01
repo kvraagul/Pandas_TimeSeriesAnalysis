@@ -8,3 +8,6 @@
 # TSA 2
 * date_range()
 * asfreq()
+
+# TSA 3
+* Holidays (Govt Holidays)
